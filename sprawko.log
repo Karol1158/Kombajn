@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.21)  29 NOV 2018 23:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.21)  1 DEC 2018 12:55
 entering extended mode
 **./sprawko.tex
 (sprawko.tex
@@ -308,13 +308,13 @@ File: histereza.png Graphic file (type png)
 Package pdftex.def Info: histereza.png  used on input line 37.
 (pdftex.def)             Requested size: 199.94853pt x 149.35915pt.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <10> on input line 44.
+(Font)              <10> on input line 42.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <7> on input line 44.
+(Font)              <7> on input line 42.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <5> on input line 44.
+(Font)              <5> on input line 42.
  [2 <./histereza.png>]
-<setup1.png, id=18, 942.52126pt x 584.1825pt>
+<setup1.png, id=19, 942.52126pt x 584.1825pt>
 File: setup1.png Graphic file (type png)
 <use setup1.png>
 Package pdftex.def Info: setup1.png  used on input line 59.
@@ -323,7 +323,7 @@ Package pdftex.def Info: setup1.png  used on input line 59.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<setup3.png, id=19, 1031.855pt x 421.575pt>
+<setup3.png, id=20, 1031.855pt x 421.575pt>
 File: setup3.png Graphic file (type png)
 <use setup3.png>
 Package pdftex.def Info: setup3.png  used on input line 70.
@@ -515,7 +515,7 @@ b><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr7.pfb
 ><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plsy7.pfb
 ><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plti10.pf
 b>
-Output written on sprawko.pdf (15 pages, 3396369 bytes).
+Output written on sprawko.pdf (15 pages, 3396396 bytes).
 PDF statistics:
  151 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
