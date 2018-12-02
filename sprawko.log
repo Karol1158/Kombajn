@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.21)  2 DEC 2018 17:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.21)  2 DEC 2018 20:51
 entering extended mode
 **./sprawko.tex
 (sprawko.tex
@@ -172,28 +172,31 @@ LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> OMS/plsy/b/n on input line 360.
 )
-("F:\Users\PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+("F:\Users\PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks20
+) ("F:\Users\PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2018/04/06 v1.3b Input encoding file
-\inpenc@prehook=\toks20
-\inpenc@posthook=\toks21
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
 )
 (sprawko.aux)
 \openout1 = `sprawko.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
 
 ("F:\Users\PC\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -202,12 +205,12 @@ LaTeX Font Info:    ... okay on input line 9.
 \scratchbox=\box28
 \nofMPsegments=\count105
 \nofMParguments=\count106
-\everyMPshowfont=\toks22
+\everyMPshowfont=\toks23
 \MPscratchCnt=\count107
 \MPscratchDim=\dimen122
 \MPnumerator=\count108
 \makeMPintoPDFobject=\count109
-\everyMPtoPDFconversion=\toks23
+\everyMPtoPDFconversion=\toks24
 )
 ("F:\Users\PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-bas
 e.sty"
@@ -272,30 +275,30 @@ G,.JBIG2,.JB2,.eps]
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for OML+plm on input line 14.
+LaTeX Font Info:    Try loading font information for OML+plm on input line 15.
  ("F:\Users\PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omlplm.fd"
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMS+plsy on input line 14.
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 15.
 
  ("F:\Users\PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omsplsy.fd"
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMX+plex on input line 14.
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 15.
 
 ("F:\Users\PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\omxplex.fd"
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <12> on input line 14.
+(Font)              <12> on input line 15.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <8> on input line 14.
+(Font)              <8> on input line 15.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <6> on input line 14.
+(Font)              <6> on input line 15.
 <podzial.png, id=1, 321.2pt x 145.54375pt>
 File: podzial.png Graphic file (type png)
 <use podzial.png>
-Package pdftex.def Info: podzial.png  used on input line 26.
+Package pdftex.def Info: podzial.png  used on input line 27.
 (pdftex.def)             Requested size: 241.49895pt x 109.4329pt.
 
 [1
@@ -305,19 +308,19 @@ Package pdftex.def Info: podzial.png  used on input line 26.
 <histereza.png, id=13, 666.49pt x 497.86pt>
 File: histereza.png Graphic file (type png)
 <use histereza.png>
-Package pdftex.def Info: histereza.png  used on input line 37.
+Package pdftex.def Info: histereza.png  used on input line 38.
 (pdftex.def)             Requested size: 199.94853pt x 149.35915pt.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <10> on input line 42.
+(Font)              <10> on input line 43.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <7> on input line 42.
+(Font)              <7> on input line 43.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <5> on input line 42.
+(Font)              <5> on input line 43.
  [2 <./histereza.png>]
 <setup1.png, id=19, 942.52126pt x 584.1825pt>
 File: setup1.png Graphic file (type png)
 <use setup1.png>
-Package pdftex.def Info: setup1.png  used on input line 59.
+Package pdftex.def Info: setup1.png  used on input line 64.
 (pdftex.def)             Requested size: 241.49895pt x 149.68213pt.
 
 
@@ -326,35 +329,35 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <setup3.png, id=20, 1031.855pt x 421.575pt>
 File: setup3.png Graphic file (type png)
 <use setup3.png>
-Package pdftex.def Info: setup3.png  used on input line 70.
+Package pdftex.def Info: setup3.png  used on input line 75.
 (pdftex.def)             Requested size: 276.00105pt x 112.75893pt.
 [3]
 <setup2.png, id=28, 672.5125pt x 523.9575pt>
 File: setup2.png Graphic file (type png)
 <use setup2.png>
-Package pdftex.def Info: setup2.png  used on input line 81.
+Package pdftex.def Info: setup2.png  used on input line 86.
 (pdftex.def)             Requested size: 241.49895pt x 188.15285pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [4 <./setup1.png> <./setup3.png>] [5 <./setup2.png>]
-<Graph31.png, id=39, 844.8363pt x 597.432pt>
+<Graph31.png, id=38, 844.8363pt x 597.432pt>
 File: Graph31.png Graphic file (type png)
 <use Graph31.png>
-Package pdftex.def Info: Graph31.png  used on input line 101.
+Package pdftex.def Info: Graph31.png  used on input line 106.
 (pdftex.def)             Requested size: 276.00105pt x 195.17497pt.
  [6 <./Graph31.png>]
 <Graph28.png, id=44, 844.8363pt x 597.432pt>
 File: Graph28.png Graphic file (type png)
 <use Graph28.png>
-Package pdftex.def Info: Graph28.png  used on input line 128.
-(pdftex.def)             Requested size: 276.00105pt x 195.17497pt.
+Package pdftex.def Info: Graph28.png  used on input line 133.
+(pdftex.def)             Requested size: 241.49895pt x 170.77127pt.
 <Graph29.png, id=45, 844.8363pt x 597.432pt>
 File: Graph29.png Graphic file (type png)
 <use Graph29.png>
-Package pdftex.def Info: Graph29.png  used on input line 134.
-(pdftex.def)             Requested size: 276.00105pt x 195.17497pt.
+Package pdftex.def Info: Graph29.png  used on input line 139.
+(pdftex.def)             Requested size: 241.49895pt x 170.77127pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -362,8 +365,8 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Graph30.png, id=46, 844.8363pt x 597.432pt>
 File: Graph30.png Graphic file (type png)
 <use Graph30.png>
-Package pdftex.def Info: Graph30.png  used on input line 146.
-(pdftex.def)             Requested size: 276.00105pt x 195.17497pt.
+Package pdftex.def Info: Graph30.png  used on input line 151.
+(pdftex.def)             Requested size: 241.49895pt x 170.77127pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -371,152 +374,176 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <wyk1.png, id=57, 523.9575pt x 287.0725pt>
 File: wyk1.png Graphic file (type png)
 <use wyk1.png>
-Package pdftex.def Info: wyk1.png  used on input line 158.
+Package pdftex.def Info: wyk1.png  used on input line 163.
 (pdftex.def)             Requested size: 169.0519pt x 92.61848pt.
 <wyk2.png, id=58, 483.8075pt x 289.08pt>
 File: wyk2.png Graphic file (type png)
 <use wyk2.png>
-Package pdftex.def Info: wyk2.png  used on input line 162.
+Package pdftex.def Info: wyk2.png  used on input line 167.
 (pdftex.def)             Requested size: 169.0519pt x 101.01189pt.
 <wyk3.png, id=59, 537.00626pt x 290.08376pt>
 File: wyk3.png Graphic file (type png)
 <use wyk3.png>
-Package pdftex.def Info: wyk3.png  used on input line 177.
+Package pdftex.def Info: wyk3.png  used on input line 182.
 (pdftex.def)             Requested size: 241.49895pt x 130.45238pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<wyk4.png, id=60, 481.8pt x 291.0875pt>
+ [9 <./wyk1.png> <./wyk2.png> <./wyk3.png>]
+<wyk4.png, id=67, 481.8pt x 291.0875pt>
 File: wyk4.png Graphic file (type png)
 <use wyk4.png>
-Package pdftex.def Info: wyk4.png  used on input line 194.
+Package pdftex.def Info: wyk4.png  used on input line 199.
 (pdftex.def)             Requested size: 169.0519pt x 102.13531pt.
-<wyk5.png, id=61, 502.87875pt x 291.0875pt>
+<wyk5.png, id=68, 502.87875pt x 291.0875pt>
 File: wyk5.png Graphic file (type png)
 <use wyk5.png>
-Package pdftex.def Info: wyk5.png  used on input line 198.
+Package pdftex.def Info: wyk5.png  used on input line 203.
 (pdftex.def)             Requested size: 169.0519pt x 97.85358pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<wyk6.png, id=62, 569.12625pt x 291.0875pt>
+<wyk6.png, id=69, 569.12625pt x 291.0875pt>
 File: wyk6.png Graphic file (type png)
 <use wyk6.png>
-Package pdftex.def Info: wyk6.png  used on input line 217.
+Package pdftex.def Info: wyk6.png  used on input line 213.
 (pdftex.def)             Requested size: 169.0519pt x 86.46524pt.
-<wyk7.png, id=63, 566.115pt x 291.0875pt>
+<wyk7.png, id=70, 566.115pt x 291.0875pt>
 File: wyk7.png Graphic file (type png)
 <use wyk7.png>
-Package pdftex.def Info: wyk7.png  used on input line 221.
+Package pdftex.def Info: wyk7.png  used on input line 217.
 (pdftex.def)             Requested size: 169.0519pt x 86.92273pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[9 <./wyk1.png> <./wyk2.png>]
-
-LaTeX Warning: Text page 10 contains only floats.
-
-[10 <./wyk3.png> <./wyk4.png> <./wyk5.png> <./wyk6.png> <./wyk7.png>]
+ [10 <./wyk4.png> <./wyk5.png> <./wyk6.png> <./wyk7.png>]
 <wyk9.png, id=78, 524.96124pt x 289.08pt>
 File: wyk9.png Graphic file (type png)
 <use wyk9.png>
-Package pdftex.def Info: wyk9.png  used on input line 242.
-(pdftex.def)             Requested size: 169.0519pt x 93.08974pt.
+Package pdftex.def Info: wyk9.png  used on input line 247.
+(pdftex.def)             Requested size: 276.00105pt x 151.9898pt.
 <wyk8.png, id=79, 537.00626pt x 289.08pt>
 File: wyk8.png Graphic file (type png)
 <use wyk8.png>
-Package pdftex.def Info: wyk8.png  used on input line 246.
-(pdftex.def)             Requested size: 169.0519pt x 91.00333pt.
-<wyk10.png, id=80, 566.115pt x 289.08pt>
+Package pdftex.def Info: wyk8.png  used on input line 251.
+(pdftex.def)             Requested size: 276.00105pt x 148.5757pt.
+
+[11 <./wyk9.png> <./wyk8.png>]
+<wyk10.png, id=86, 566.115pt x 289.08pt>
 File: wyk10.png Graphic file (type png)
 <use wyk10.png>
-Package pdftex.def Info: wyk10.png  used on input line 258.
-(pdftex.def)             Requested size: 169.0519pt x 86.32326pt.
-<wyk11.png, id=81, 567.11874pt x 311.1625pt>
+Package pdftex.def Info: wyk10.png  used on input line 263.
+(pdftex.def)             Requested size: 276.00105pt x 140.94026pt.
+<wyk11.png, id=87, 567.11874pt x 311.1625pt>
 File: wyk11.png Graphic file (type png)
 <use wyk11.png>
-Package pdftex.def Info: wyk11.png  used on input line 262.
-(pdftex.def)             Requested size: 169.0519pt x 92.75122pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<wykD1.png, id=82, 626.34pt x 306.14375pt>
+Package pdftex.def Info: wyk11.png  used on input line 267.
+(pdftex.def)             Requested size: 276.00105pt x 151.4359pt.
+ [12 <./wyk10.png> <./wyk11.png>]
+<wykD1.png, id=93, 626.34pt x 306.14375pt>
 File: wykD1.png Graphic file (type png)
 <use wykD1.png>
-Package pdftex.def Info: wykD1.png  used on input line 275.
-(pdftex.def)             Requested size: 241.49895pt x 118.04088pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<wykD2.png, id=83, 628.3475pt x 275.0275pt>
+Package pdftex.def Info: wykD1.png  used on input line 281.
+(pdftex.def)             Requested size: 276.00105pt x 134.9092pt.
+<wykD2.png, id=94, 628.3475pt x 275.0275pt>
 File: wykD2.png Graphic file (type png)
 <use wykD2.png>
-Package pdftex.def Info: wykD2.png  used on input line 282.
-(pdftex.def)             Requested size: 241.49895pt x 105.70335pt.
+Package pdftex.def Info: wykD2.png  used on input line 285.
+(pdftex.def)             Requested size: 276.00105pt x 120.80264pt.
+<wykD3.png, id=95, 625.33624pt x 321.2pt>
+File: wykD3.png Graphic file (type png)
+<use wykD3.png>
+Package pdftex.def Info: wykD3.png  used on input line 297.
+(pdftex.def)             Requested size: 276.00105pt x 141.76953pt.
+<wykD4.png, id=96, 689.57625pt x 325.215pt>
+File: wykD4.png Graphic file (type png)
+<use wykD4.png>
+Package pdftex.def Info: wykD4.png  used on input line 301.
+(pdftex.def)             Requested size: 276.00105pt x 130.16805pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[11 <./wyk9.png> <./wyk8.png>] [12 <./wyk10.png> <./wyk11.png> <./wykD1.png> <.
-/wykD2.png>]
-<wykD3.png, id=96, 625.33624pt x 321.2pt>
-File: wykD3.png Graphic file (type png)
-<use wykD3.png>
-Package pdftex.def Info: wykD3.png  used on input line 291.
-(pdftex.def)             Requested size: 241.49895pt x 124.04222pt.
-<wykD4.png, id=97, 689.57625pt x 325.215pt>
-File: wykD4.png Graphic file (type png)
-<use wykD4.png>
-Package pdftex.def Info: wykD4.png  used on input line 298.
-(pdftex.def)             Requested size: 241.49895pt x 113.89642pt.
-<wykD5.png, id=98, 630.355pt x 320.19624pt>
+
+Overfull \hbox (1.66838pt too wide) in paragraph at lines 308--309
+[]\OT4/cmr/m/n/10 Jak wi-da¢ na Rys.17[], w pew-nym mo-men-cie wy-kres za-czy-n
+a przy-bie-ra¢ ksztaªt
+ []
+
+[13 <./wykD1.png> <./wykD2.png>]
+<wykD5.png, id=103, 630.355pt x 320.19624pt>
 File: wykD5.png Graphic file (type png)
 <use wykD5.png>
-Package pdftex.def Info: wykD5.png  used on input line 307.
+Package pdftex.def Info: wykD5.png  used on input line 312.
 (pdftex.def)             Requested size: 241.49895pt x 122.67253pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<wykD6.png, id=99, 647.41875pt x 323.2075pt>
+<wykD6.png, id=104, 647.41875pt x 323.2075pt>
 File: wykD6.png Graphic file (type png)
 <use wykD6.png>
-Package pdftex.def Info: wykD6.png  used on input line 314.
+Package pdftex.def Info: wykD6.png  used on input line 319.
 (pdftex.def)             Requested size: 241.49895pt x 120.56139pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[13 <./wykD3.png> <./wykD4.png>] [14 <./wykD5.png> <./wykD6.png>] [15]
-(sprawko.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
+
+ []
+
+[14 <./wykD3.png> <./wykD4.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 337.
+
+
+("F:\Users\PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 337.
+
+Overfull \hbox (7.88354pt too wide) in paragraph at lines 338--339
+\OT4/cmr/m/n/10 ogrze-wa-nia i chªo-dze-nia prób-ki $\OML/plm/m/it/10 T[] \OT4/
+cmr/m/n/10 = 42\OML/plm/m/it/10 ; \OT4/cmr/m/n/10 4523[]\OML/plm/m/it/10 C$ \OT
+4/cmr/m/n/10 oraz $\OML/plm/m/it/10 T[] \OT4/cmr/m/n/10 = 41\OML/plm/m/it/10 ; 
+\OT4/cmr/m/n/10 5526[]\OML/plm/m/it/10 C$\OT4/cmr/m/n/10 .
+ []
+
+[15 <./wykD5.png> <./wykD6.png>]
+Overfull \hbox (12.69186pt too wide) in paragraph at lines 347--348
+\OT4/cmr/m/n/10 li-nio-w¡ w prze-dzia-ªach $\OML/plm/m/it/10 T \OMS/plsy/m/n/10
+ 2\OML/plm/m/it/10 < \OT4/cmr/m/n/10 42\OML/plm/m/it/10 :\OT4/cmr/m/n/10 4523\O
+ML/plm/m/it/10 ; \OT4/cmr/m/n/10 47\OML/plm/m/it/10 :\OT4/cmr/m/n/10 2500 \OML/
+plm/m/it/10 > \OT4/cmr/m/n/10 [[]\OML/plm/m/it/10 C\OT4/cmr/m/n/10 ]$ oraz $\OM
+L/plm/m/it/10 T \OMS/plsy/m/n/10 2\OML/plm/m/it/10 < \OT4/cmr/m/n/10 41\OML/plm
+/m/it/10 :\OT4/cmr/m/n/10 5526\OML/plm/m/it/10 ; \OT4/cmr/m/n/10 49\OML/plm/m/i
+t/10 :\OT4/cmr/m/n/10 7500 \OML/plm/m/it/10 >
+ []
+
+[16] (sprawko.aux) ) 
 Here is how much of TeX's memory you used:
- 3618 strings out of 492970
- 55203 string characters out of 3127925
- 123174 words of memory out of 3000000
- 7417 multiletter control sequences out of 15000+200000
+ 3653 strings out of 492970
+ 55875 string characters out of 3127925
+ 121535 words of memory out of 3000000
+ 7446 multiletter control sequences out of 15000+200000
  14315 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,7n,40p,1139b,459s stack positions out of 5000i,500n,10000p,200000b,50000s
-{F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/p
-l/plrm.enc}{F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/pl
-ms.enc}{F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/plit.e
-nc}{F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/plmi.enc}<
-F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbx10.pfb>
-<F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plbx12.pfb
-><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plmi10.pf
-b><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plmi7.pf
-b><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr10.pf
-b><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr12.pf
-b><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr17.pf
-b><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr7.pfb
-><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr9.pfb>
-<F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plsy10.pfb
-><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plsy7.pfb
-><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plti10.pf
-b>
-Output written on sprawko.pdf (15 pages, 694679 bytes).
+ 42i,7n,40p,1093b,459s stack positions out of 5000i,500n,10000p,200000b,50000s
+{F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dv
+ips/pl/plme.enc}{F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/
+pl/plrm.enc}{F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/p
+lms.enc}{F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/plit.
+enc}{F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/pl/plmi.enc}
+<F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy10.pfb><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/
+plbx10.pfb><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl
+/plbx12.pfb><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/p
+l/plex10.pfb><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+pl/plmi10.pfb><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/pl/plmi7.pfb><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/pl/plr10.pfb><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/pl/plr12.pfb><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/pl/plr17.pfb><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/pl/plr7.pfb><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+pl/plr9.pfb><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/p
+l/plsy10.pfb><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+pl/plsy7.pfb><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+pl/plti10.pfb>
+Output written on sprawko.pdf (16 pages, 708480 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
+ 168 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  131 words of extra memory for PDF output out of 10000 (max. 10000000)
 

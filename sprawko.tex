@@ -3,6 +3,7 @@
 \usepackage{graphicx}
 \usepackage{subcaption}
 \usepackage{polski}
+\usepackage{enumerate}
 \usepackage[utf8]{inputenc}
 
 
@@ -39,17 +40,21 @@ Ferroelektryki są materiałami w których można zaobserwować zjawisko histere
 	\label{fig:histereza}
 \end{figure}
 
-Ferroelektryki są dielektrykami nieliniowymi, co oznacza, że ich polaryzacja zależy od zewnętrznego pola elektrycznego w sposób nieliniowy. Dodatkowo w ferroelektrykach, dzięki temu że są również piroelektrykami, występuje polaryzacja nawet pod nieobecność zewnętrznego pola elektrycznego. Polaryzację tą nazywamy \textbf{polaryzacją spontaniczną}, a jej kierunek w ferroelektrykach możemy zmienić za pomocą zewnętrznego pola elektrycznego ($E=0$). Kolejną cechą tych materiałów jest \textbf{znakomita przenikalność elektryczna}, która najczęściej rośnie wraz z temperaturą materiału, aż do temperatury krytycznej, zwanej \textbf{temperaturą Curie}, powyżej której w ferroelektryku zanika polaryzacja spontaniczna, przenikalność zaczyna stopniowo spadać zgodnie z \textbf{prawem Curie-Weissa}\cite{krajewski}, a ferroelektryk gwałtownie traci swoje właściwości i staje się paraelektrykiem. Zjawisko to wynika ze zmiany fazy ciała stałego.
+Ferroelektryki są dielektrykami nieliniowymi, co oznacza, że ich polaryzacja zależy od zewnętrznego pola elektrycznego w sposób nieliniowy. Dodatkowo w ferroelektrykach, dzięki temu że są również piroelektrykami, występuje polaryzacja nawet pod nieobecność zewnętrznego pola elektrycznego ($E=0$). Polaryzację tę nazywamy \textbf{polaryzacją spontaniczną}, a jej kierunek w ferroelektrykach możemy zmienić za pomocą zewnętrznego pola elektrycznego. Kolejną cechą tych materiałów jest \textbf{znakomita przenikalność elektryczna}, która najczęściej rośnie wraz z temperaturą materiału, aż do temperatury krytycznej, zwanej \textbf{temperaturą Curie}, powyżej której w ferroelektryku zanika polaryzacja spontaniczna, przenikalność zaczyna stopniowo spadać zgodnie z \textbf{prawem Curie-Weissa}, a ferroelektryk gwałtownie traci swoje właściwości i staje się paraelektrykiem. Zjawisko to wynika ze zmiany fazy ciała stałego\cite{krajewski}.
 \subsection{Dwójłomność w ferroelektrykach}
-Załóżmy wiązkę światła wychodzącą z polaryzatora. Posiada ona tylko wektory elektryczne, których kierunek jest zgodny z kierunkiem polaryzacji. Taką wiązkę nazywamy \textbf{spolaryzowaną}. Gdy przejdzie ona przez drugi polaryzator, nazywany analizatorem, jej natężenie $I$ jest zwykle mniejsze od natężenia światła $I_{0}$  padającego na analizator i zależy od kąta $\alpha$ między kierunkami polaryzacji obu przyrządów. Mówi o tym zależność odkryta przez francuskiego fizyka Étienne-Louis Malusa, dziś nazywana \textbf{prawem Malusa}: \cite{malus}
+Załóżmy wiązkę światła wychodzącą z polaryzatora. Posiada ona tylko wektory elektryczne, których kierunek jest zgodny z kierunkiem polaryzacji. Taką wiązkę nazywamy \textbf{spolaryzowaną}. Gdy przejdzie ona przez drugi polaryzator, nazywany analizatorem, jej natężenie $I$ jest zwykle mniejsze od natężenia światła $I_{0}$  padającego na analizator i zależy od kąta $\alpha$ między kierunkami polaryzacji obu przyrządów. Mówi o tym zależność odkryta przez francuskiego fizyka Étienne-Louis Malusa, dziś nazywana \textbf{prawem Malusa}\cite{malus}: 
 \begin{equation}
-I=I_{0}cos^{2}\alpha
+I=I_{0} \cdot cos^{2}\alpha
 \end{equation}
 Spolaryzowana wiązka światła padając na kryształ ulega rozdzieleniu na dwie wzajemnie prostopadłe spolaryzowane wiązki - promień zwyczajny i promień nadzwyczajny - poruszające się z różnymi prędkościami. To zjawisko nazywamy \textbf{dwójłomnością}. Miarą dwójłomności jest różnica współczynników załamania promienia nadzwyczajnego i zwyczajnego\cite{dwoj}:
 \begin{equation}
 \Delta n = n_{e} - n_{o}
 \end{equation}
-W kryształach \textbf{anizotropowych}, czyli takich w których właściwości fizyczne zależą od kierunku, możemy być świadkami zjawiska nazywanego \textbf{dwójłomnością spontaniczną}, gdzie zjawisko to występuje naturalnie. Zjawisko to polega na zmianie miary dwójłomności $\delta(\Delta n)$ w zależności od temperatury. Spolaryzowana wiązka światła padając na kryształ ulega rozdzieleniu na wzajemnie prostopadle spolaryzowane wiązki poruszające się z różnymi prędkościami. Po wyjściu z kryształu następuje interferencja obu promieni, a jej wynikiem w zależności od różnicy faz jest wiązka spolaryzowana liniowo, kołowo lub eliptycznie. Różnica faz w obu wiązkach spowodowana jest różnica drogi przebytej w krysztale. Dla kryształu TGS, który jest centrosymetryczny w fazie paraelektrycznej anomalna część dwójłomności spontanicznej obserwowanej w fazie ferroelektrycznej, ma charakter spontanicznego efektu Kerra opisywanego równaniem $\delta \Gamma = r\cdot P_{s}^{2}$, gdzie r to współczynnik elektrooptyczny, a $P_{s}$ to polaryzacja spontaniczna.
+W kryształach \textbf{anizotropowych}, czyli takich w których właściwości fizyczne zależą od kierunku, możemy być świadkami zjawiska nazywanego \textbf{dwójłomnością spontaniczną}, gdzie zjawisko to występuje naturalnie. Zjawisko to polega na zmianie miary dwójłomności $\delta(\Delta n)$ w zależności od temperatury T. Po wyjściu z kryształu następuje interferencja obu promieni, a jej wynikiem w zależności od różnicy faz $\delta \Gamma$ jest wiązka spolaryzowana liniowo, kołowo lub eliptycznie. Różnica faz w obu wiązkach spowodowana jest różnicą drogi przebytej w krysztale. Dla kryształu TGS w fazie paraelektrycznej anomalna część dwójłomności spontanicznej obserwowanej w fazie ferroelektrycznej, ma charakter spontanicznego efektu Kerra opisywanego równaniem:
+\begin{equation}
+\delta \Gamma = r\cdot P_{s}^{2}
+\end{equation}
+gdzie r to współczynnik elektrooptyczny, a $P_{s}$ to polaryzacja spontaniczna.
 
 \section{Układy pomiarowe}
 \subsection{Polaryzacja spontaniczna}
@@ -72,7 +77,7 @@ Układ którego użyliśmy do pomiaru polaryzacji spontanicznej i pola koercji p
 	\label{fig:setup3}
 \end{figure}
 
-Przenikalność elektryczną zbadaliśmy dzięki układowi pokazanemu na Rys.\ref{fig:setup3}. W termostacie znajduje się kondensator wykonany z kryształu TGS, do którego podłączony jest mostek objętościowy Escort ELC-3133A. Całość podłączona jest do regulatora temperatury \textit{UNIPAN Temperature Controller 660}, a temperatura wewnątrz termostatu monitorowana jest za pomocą termopary. Do prawidłowego działania układu termopary potrzebny jest termos z mieszaniną lodu i wody (o temperaturze zbliżonej do $0^{o}C$) i miernik METEX, używany jako miliwoltomierz. Całość podłączona jest do komputera, a program $Escort$ odczytując bieżące parametry pojemności kondensatora dla danej temperatury, rysuje aktualny wykres oraz zapisuje wyniki.
+Przenikalność elektryczną zbadaliśmy dzięki układowi pokazanemu na Rys.\ref{fig:setup3}. W termostacie znajduje się kondensator wykonany z kryształu TGS, do którego podłączony jest mostek objętościowy Escort ELC-3133A. Całość podłączona jest do regulatora temperatury \textit{UNIPAN Temperature Controller 660}, a temperatura wewnątrz termostatu monitorowana jest za pomocą termopary. Do prawidłowego działania układu termopary potrzebny jest termos z mieszaniną lodu i wody i miernik METEX, używany jako miliwoltomierz. Całość podłączona jest do komputera, a program $Escort$ odczytując bieżące parametry pojemności kondensatora dla danej temperatury, rysuje aktualny wykres oraz zapisuje wyniki.
 
 \subsection{Dwójłomność spontaniczna}
 
@@ -88,10 +93,10 @@ Podczas badania zjawiska dwójłomności spontanicznej posłużyliśmy się zest
 \section{Pomiary i wyniki}
 \subsection{Polaryzacja spontaniczna}
 
-Badanie polaryzacji spontanicznej odbywało się poprzez odczyt i zapis pętli histerezy wyświetlanych na oscyloskopie, w trakcie zmieniania temperatury próbki. Najpierw ogrzewaliśmy próbkę od temperatury pokojowej, aż do temperatury w której zaobserwowaliśmy kompletny zanik pętli histerezy. Była to w naszym przypadku temperatura około $50^{o}C$. Następnie wyciągnęliśmy próbkę i w procesie swobodnego chłodzenia powtórzyliśmy badanie, aż do uzyskania temperatury około $34^{o}C$, ponieważ w okolicach tej temperatury swobodne chłodzenie próbki przebiegało już bardzo wolno. Warto wspomnieć, że do wysycenia pętli wystarczyło napięcie $194V$, a nasza próbka miała grubość $1,6\cdot10^{-3}m$. Podstawiając te wartości do wzoru:
+Badanie polaryzacji spontanicznej odbywało się poprzez odczyt i zapis pętli histerezy wyświetlanych na oscyloskopie, w trakcie zmieniania temperatury próbki. Najpierw ogrzewaliśmy próbkę od temperatury pokojowej, aż do temperatury w której zaobserwowaliśmy kompletny zanik pętli histerezy. Temperaturę zmienialiśmy co krok $2^{o}C$, a pętla histerezy stała się linią prostą przy temperaturze około $50^{o}C$. Następnie wyciągnęliśmy próbkę i w procesie swobodnego chłodzenia powtórzyliśmy badanie, aż do uzyskania temperatury około $34^{o}C$, ponieważ w okolicach tej temperatury swobodne chłodzenie próbki przebiegało już bardzo wolno. Warto wspomnieć, że do wysycenia pętli wystarczyło napięcie $U_{max}=194V$, a nasza próbka miała grubość $d=1,6\cdot10^{-3}m$. Podstawiając te wartości do wzoru:
 
 \begin{equation}
-E_{max}=\dfrac{U_{max}}{d}=\dfrac{\sqrt{2 \cdot U_{sk}}}{d}
+E_{max}=\dfrac{U_{max}}{d}
 \end{equation}
 
 obliczyliśmy maksymalne pole elektryczne przyłożone do próbki. Wynosiło ono $1,21\cdot 10^{5} \dfrac{V}{m^{2}}$. Przykładowe pętle histerezy zaobserwowane podczas ogrzewania próbki widoczne na Rys.\ref{fig:Graph31}.
@@ -103,16 +108,16 @@ obliczyliśmy maksymalne pole elektryczne przyłożone do próbki. Wynosiło ono
 	\label{fig:Graph31}
 \end{figure}
 
-Dla wszystkich z 27 otrzymanych pętli histerezy, zostały odczytane współrzędne przecięcia pętli z osiami układu współrzędnych oraz ekstrema pętli (wartości $X_{c}$,$Y_{c}$,$X_{max}$ i $Y_{max}$). Pętle nie były symetryczne względem początku układu współrzędnych, dlatego współrzędne przecięcia pętli z osiami musieliśmy uśrednić, w celu otrzymania wiarygodnego wyniku. Dzięki tym danym byliśmy w stanie wyznaczyć wartość przenikalności elektrycznej dla każdej pętli w stanie nasycenia, według wzoru:
+Dla wszystkich z 27 otrzymanych pętli histerezy, zostały odczytane współrzędne przecięcia pętli z osiami układu współrzędnych oraz ekstrema pętli (wartości $X_{c}$,$Y_{c}$,$X_{max}$ i $Y_{max}$). Pętle nie były symetryczne względem początku układu współrzędnych, dlatego współrzędne przecięcia pętli z osiami musieliśmy uśrednić, w celu otrzymania wiarygodnego wyniku. Dzięki tym danym byliśmy w stanie wyznaczyć wartość przenikalności elektrycznej $\varepsilon_{max}$ dla każdej pętli w stanie nasycenia, według wzoru:
 \begin{equation}
 \varepsilon_{max}=\dfrac{P_{max}}{\varepsilon_{0}\cdot E_{max}}
 \end{equation}
-gdzie $\varepsilon_{0}$ to wartość przenikalności elektrycznej w próżni, a $P_{max}$ obliczyliśmy za pomocą wzoru:
+gdzie $\varepsilon_{0}$ to wartość przenikalności elektrycznej w próżni, a polaryzacja nasycenia $P_{max}$ została obliczona za pomocą wzoru:
 \begin{equation}
 P_{max}=\dfrac{Y_{max}\cdot C_{0}}{S}
 \end{equation}
 
-Wartość $C_{0}$ jest wartością mostka DDP i w naszym modelu wynosiła ona $C_{0}=2\cdot10^{-6} F$. S w powyższym równaniu jest wartością pola powierzchni próbki kryształu i obliczyliśmy ją poprzez metodę histogramowego przetwarzania obrazu zdjęcia kryształu, zrobionego podczas pomiarów. Z analizy obrazy udało nam się wyliczyć wartość $S=4,00\cdot10^{-5} m^{2}$. Następnie dla każdej pętli policzyliśmy polaryzacje spontaniczną i pole koercji za pomocą wzorów:
+Wartość $C_{0}$ jest wartością mostka DDP i w naszym modelu wynosiła ona $C_{0}=2\cdot10^{-6} F$. Wartość S w powyższym równaniu jest wartością pola powierzchni próbki kryształu i obliczyliśmy ją poprzez metodę histogramowego przetwarzania obrazu kryształu. Użyliśmy do tego zdjęcia próbki, zrobionego podczas pomiarów. Z analizy obrazu udało nam się wyliczyć wartość $S=4,00\cdot10^{-5} m^{2}$. Następnie dla każdej pętli policzyliśmy polaryzację spontaniczną  $P_{s}$ i pole koercji $E_{c}$ za pomocą wzorów:
 \begin{equation}
 P_{s}=\dfrac{Y_{c}\cdot C_{0}}{S}
 \end{equation}
@@ -121,36 +126,36 @@ oraz
 E_{c}=\dfrac{X_{c}}{X_{max}}\cdot E_{max}
 \end{equation}
 
-Wykresy polaryzacji nasycenia $P_{max}$, polaryzacji spontanicznej $P_{s}$ oraz pola koercji $E_{c}$ w funkcji temperatury są pokazane na Rys.\ref{fig:Graph28}. i Rys.\ref{fig:Graph29}.
+Wykresy polaryzacji nasycenia, polaryzacji spontanicznej oraz pola koercji w funkcji temperatury są pokazane na Rys.\ref{fig:Graph28}. i Rys.\ref{fig:Graph29}.
 
 \begin{figure}[!h]
 	\centering
-	\includegraphics[width=0.8\linewidth]{Graph28.png}
+	\includegraphics[width=0.7\linewidth]{Graph28.png}
 	\caption{Wykresy polaryzacji nasycenia $P_{max}$, polaryzacji spontanicznej $P_{s}$ oraz pola koercji $E_{c}$ w funkcji temperatury dla ogrzewania próbki.}
 	\label{fig:Graph28}
 \end{figure}
 \begin{figure}[!h]
 	\centering
-	\includegraphics[width=0.8\linewidth]{Graph29.png}
+	\includegraphics[width=0.7\linewidth]{Graph29.png}
 	\caption{Wykresy polaryzacji nasycenia $P_{max}$, polaryzacji spontanicznej $P_{s}$ oraz pola koercji $E_{c}$ w funkcji temperatury dla ochładzania próbki.}
 	\label{fig:Graph29}
 \end{figure}
 
-Na podstawie otrzymanych wyników jesteśmy w stanie narysować wykres zależności $P_{s}^{2}$ od temperatury (Rys.\ref{fig:Graph30}.). Dzięki niemu możemy oszacować że zakres temperatur dla którego $P_{s}^{2}$ jest liniową funkcją temperatury to zarówno dla ogrzewania jak i ochładzania 
+Na podstawie otrzymanych wyników jesteśmy w stanie narysować wykres zależności $P_{s}^{2}$ od temperatury (Rys.\ref{fig:Graph30}.). Dzięki niemu możemy oszacować że zakres temperatur dla którego $P_{s}^{2}$ jest liniową funkcją temperatury, to zarówno dla ogrzewania jak i chłodzenia 
 \begin{equation}
 T\in <42 , 50 > [^{o}C]
 \end{equation}
 
 \begin{figure}[!h]
 	\centering
-	\includegraphics[width=0.8\linewidth]{Graph30.png}
+	\includegraphics[width=0.7\linewidth]{Graph30.png}
 	\caption{Wykres zależności $P_{s}^{2}$ od temperatury.}
 	\label{fig:Graph30}
 \end{figure}
 
 \newpage
 \subsection{Przenikalność elektryczna}
-Żeby przystąpić do badania przenikalności elektrycznej kryształu TGS, musieliśmy najpierw stworzyć z niego kondensator, przy wykorzystaniu pasty srebrnej. Gdy już posiadaliśmy w pełni sprawny układ pomiarowy mogliśmy przejść do etapu pomiarów. W tym celu użyliśmy programu komputerowego o nazwie $Escort$ odczytującego bieżące parametry pojemności kondensatora dla danej temperatury. Próbkę badaliśmy dwa razy, pierwszy raz podgrzewaliśmy ją od temperatury pokojowej (około $16,5^{0}C$) do $100^{0}C$ w tempie $1^{0}C/min$. Po osiągnięciu tej temperatury wyciągnęliśmy próbkę z izolowanej termicznie komory, dzięki czemu zaczęła się ona ochładzać. Swobodne ochładzanie się próbki potrwało nieznacznie krócej niż jej ogrzanie, ale warto zaznaczyć że pomiar ten odbywał się tylko do temperatury $30^{0}C$. Uzyskane wyniki zaprezentowano na Rys.\ref{fig:wyk12}.
+Żeby przystąpić do badania przenikalności elektrycznej kryształu TGS, musieliśmy najpierw stworzyć kondensator. Zrobiliśmy to przy wykorzystaniu pasty srebrnej, która pełniła rolę nakładek. Nasz kondensator miał grubość $d=1,35 \cdot 10^{-3} m$, a jego pole powierzchni to $S=1,04 \cdot 10^{-4} m^{2}$. Gdy już posiadaliśmy w pełni sprawny układ pomiarowy mogliśmy przejść do etapu pomiarów. W tym celu użyliśmy programu komputerowego o nazwie $Escort$ odczytującego bieżące parametry pojemności kondensatora dla danej temperatury. Próbkę badaliśmy dwa razy, pierwszy raz podgrzewaliśmy ją od temperatury pokojowej (około $16,5^{0}C$) do $100^{0}C$ w tempie $1^{0}C/min$. Po osiągnięciu tej temperatury wyciągnęliśmy próbkę z izolowanej termicznie komory, dzięki czemu zaczęła się ona ochładzać. Swobodne ochładzanie się próbki potrwało nieznacznie krócej niż jej ogrzanie, ale warto zaznaczyć że pomiar ten odbywał się tylko do temperatury $30^{0}C$. Uzyskane wyniki zaprezentowano na Rys.\ref{fig:wyk12}.
 
 \begin{figure}[h!]
   \centering
@@ -166,11 +171,11 @@ T\in <42 , 50 > [^{o}C]
   \label{fig:wyk12}
 \end{figure}
 
-Dzięki uzyskanym danym byliśmy w stanie obliczyć wartości przenikalności elektrycznej w badanym przedziale wg wzoru:
+Dzięki uzyskanym danym byliśmy w stanie obliczyć wartości przenikalności elektrycznej $\varepsilon$  w badanym przedziale wg wzoru:
 \begin{equation}
 \varepsilon = \dfrac{C_{p}\cdot d}{S \cdot \varepsilon_{0}}
 \end{equation}
-gdzie $C_{p}$ jest odczytanym pomiarem pojemności kondensatora, d jest grubością kondensatora, S jest polem powierzchni kondensatora płaskiego, a $\varepsilon_{0}$ przenikalnością elektryczną w próżni. Otrzymane wyniki zaprezentowane są na Rys.\ref{fig:wyk3}.
+gdzie $C_{p}$ jest odczytanym pomiarem pojemności kondensatora, a $\varepsilon_{0}$ przenikalnością elektryczną w próżni. Otrzymane wyniki zaprezentowane są na Rys.\ref{fig:wyk3}.
 
 \begin{figure}[!h]
 	\centering
@@ -179,7 +184,7 @@ gdzie $C_{p}$ jest odczytanym pomiarem pojemności kondensatora, d jest grubośc
 	\label{fig:wyk3}
 \end{figure}
 
-Następnie dzięki wykresom (Rys.\ref{fig:wyk45}.) $1/\varepsilon(T)$ byliśmy w stanie wyznaczyć wartość temperatury Curie, która dla grzania i chłodzenia wynosiła odpowiednio 
+Następnie dzięki wykresom $1/\varepsilon(T)$ (Rys.\ref{fig:wyk45}) byliśmy w stanie wyznaczyć wartość temperatury Curie, która dla grzania i chłodzenia wynosiła odpowiednio 
 \begin{equation}
 T_{C grz}=42,4523^{o}C
 \end{equation}
@@ -198,18 +203,9 @@ T_{C chl}=41,5526^{o}C
     \includegraphics[width=\linewidth]{wyk5.png}
     \caption{}
   \end{subfigure}
-  \caption{a)Wykres zależności pojemności odwrotności przenikalności elektrycznej od temperatury podczas grzania. b)Wykres zależności odwrotności przenikalności elektrycznej od temperatury podczas spontanicznego chłodzenia.}
+  \caption{a)Wykres zależności odwrotności przenikalności elektrycznej od temperatury podczas grzania. b)Wykres zależności odwrotności przenikalności elektrycznej od temperatury podczas spontanicznego chłodzenia.}
   \label{fig:wyk45}
 \end{figure}
-
-Jak widać, wykresy $1/\varepsilon(T)$ są liniowe tylko dla pewnego przedziału zaraz po temperaturze Curie (Rys.\ref{fig:wyk67}.). Właśnie dla tego przedziału obowiązuje prawo Curie-Weissa i dla grzania zawiera się w przedziale :
-\begin{equation}
-T\in <42.4523 , 47.2500> [^{o}C]
-\end{equation}
-oraz dla chłodzenia :
-\begin{equation}
-T\in <41.5526 , 49.7500> [^{o}C]
-\end{equation}
 
 \begin{figure}[h!]
   \centering
@@ -221,86 +217,95 @@ T\in <41.5526 , 49.7500> [^{o}C]
     \includegraphics[width=\linewidth]{wyk7.png}
     \caption{}
   \end{subfigure}
-  \caption{a)Wykres zależności pojemności odwrotności przenikalności elektrycznej od temperatury podczas grzania. b)Wykres zależności odwrotności przenikalności elektrycznej od temperatury podczas spontanicznego chłodzenia. Wykresy prezentują jedynie okolice temperatury Curie.}
+  \caption{a)Wykres zależności odwrotności przenikalności elektrycznej od temperatury podczas grzania. b)Wykres zależności odwrotności przenikalności elektrycznej od temperatury podczas spontanicznego chłodzenia. Wykresy prezentują jedynie okolice temperatury Curie.}
 \label{fig:wyk67}
 \end{figure}
 
-Dla fazy paraelektrycznej ($T-T_{c} > 0$ Rys.\ref{fig:wyk89}.), z odwrotności współczynnika kierunkowego prostej aproksymacji liniowej, można wyznaczyć stałą Curie-Weissa i dla grzania ma ona wartość:
+Jak widać, wykresy $1/\varepsilon(T)$ są liniowe tylko dla pewnego przedziału zaraz po temperaturze Curie (Rys.\ref{fig:wyk67}.). Właśnie dla tego przedziału obowiązuje prawo Curie-Weissa i dla grzania jest to przedział:
 \begin{equation}
-C=1183,291 \pm 11,785 [K]
+T\in <42.4523 , 47.2500> [^{o}C]
+\end{equation}
+oraz dla chłodzenia :
+\begin{equation}
+T\in <41.5526 , 49.7500> [^{o}C]
+\end{equation}
+
+Dla fazy paraelektrycznej ($T-T_{c}>0$)(Rys.\ref{fig:wyk89}.), z odwrotności współczynnika kierunkowego prostej aproksymacji liniowej, można wyznaczyć stałą Curie-Weissa i dla grzania ma ona wartość:
+\begin{equation}
+C=1183,291 \pm 11,785 \Bigg[ \dfrac{F \cdot K}{m} \Bigg]
 \end{equation}
 
 oraz dla chłodzenia ma ona wartość:
 
 \begin{equation}
-C=912,9304 \pm 7,952 [K]
+C=912,9304 \pm 7,952 \Bigg[ \dfrac{F \cdot K}{m} \Bigg]
 \end{equation}
 
 \begin{figure}[h!]
   \centering
-  \begin{subfigure}[b]{0.49\linewidth}
+  \begin{subfigure}[b]{0.8\linewidth}
     \includegraphics[width=\linewidth]{wyk9.png}
     \caption{}
   \end{subfigure}
-  \begin{subfigure}[b]{0.49\linewidth}
+  \begin{subfigure}[b]{0.8\linewidth}
     \includegraphics[width=\linewidth]{wyk8.png}
     \caption{}
   \end{subfigure}
-  \caption{a)Wykres zależności pojemności odwrotności przenikalności elektrycznej od temperatury podczas grzania. b)Wykres zależności odwrotności przenikalności elektrycznej od temperatury podczas spontanicznego chłodzenia. Wykresy prezentują jedynie wartości powyżej temperatury Curie.}
+  \caption{a)Wykres zależności odwrotności przenikalności elektrycznej od temperatury podczas grzania. b)Wykres zależności odwrotności przenikalności elektrycznej od temperatury podczas spontanicznego chłodzenia. Wykresy prezentują jedynie wartości powyżej temperatury Curie.}
 \label{fig:wyk89}
 \end{figure}
 
-Ponadto otrzymane wyniki sprawdziliśmy pod kątem "prawa dwójki".Prawo to mówi, że stosunek przybliżeń liniowych wykresów $1/\varepsilon(T-T_{c})$ (Rys.\ref{fig:wyk1011}.) powinien mieć wartość przybliżoną do 2. Otrzymaliśmy wyniki: dla grzania $1,757$ oraz dla chłodzenia $1,407$.
+Ponadto otrzymane wyniki sprawdziliśmy pod kątem "prawa dwójki". Prawo to mówi, że stosunek przybliżeń liniowych wykresów $1/\varepsilon(T-T_{c})$ (Rys.\ref{fig:wyk1011}.) powinien mieć wartość przybliżoną do -2. Otrzymaliśmy wyniki: dla grzania $-1,757$ oraz dla chłodzenia $-1,407$.
 
 \begin{figure}[h!]
   \centering
-  \begin{subfigure}[b]{0.49\linewidth}
+  \begin{subfigure}[b]{0.8\linewidth}
     \includegraphics[width=\linewidth]{wyk10.png}
     \caption{}
   \end{subfigure}
-  \begin{subfigure}[b]{0.49\linewidth}
+  \begin{subfigure}[b]{0.8\linewidth}
     \includegraphics[width=\linewidth]{wyk11.png}
     \caption{}
   \end{subfigure}
-  \caption{a)Wykres zależności pojemności odwrotności przenikalności elektrycznej od temperatury podczas grzania. b)Wykres zależności odwrotności przenikalności elektrycznej od temperatury podczas spontanicznego chłodzenia. Wykresy prezentują jedynie wartości powyżej temperatury Curie.}
+  \caption{a)Wykres zależności odwrotności przenikalności elektrycznej od temperatury podczas grzania. b)Wykres zależności odwrotności przenikalności elektrycznej od temperatury podczas spontanicznego chłodzenia. Wykresy prezentują jedynie wartości powyżej temperatury Curie.}
 \label{fig:wyk1011}
 \end{figure}
 
 \subsection{Dwójłomność spontaniczna}
 
-Badanie zjawiska polaryzacji spontanicznej polegało na rejestrowaniu zmian natężenia światła przechodzącego przez cały układ, w zależności od temperatury układu. Laser He-Ne emitował światło laserowe o długości fali $\lambda=632nm$, które przechodziło przez dwa polaryzatory ustawione względem siebie pod kątem $90^{o}$. Kryształ TGS, który był ustawiony w kriostacie między polaryzatorem i analizatorem, wykazywał właściwości dwójłomne. Jego temperaturę zmienialiśmy od temperatury pokojowej, aż do temperatury około $100^{o}C$, a potem poddaliśmy próbkę swobodnemu chłodzeniu, także monitorując jej zachowanie. Wyniki jakie otrzymaliśmy zaprezentowane są na Rys.\ref{fig:wykD1}. i Rys.\ref{fig:wykD2}.
+Badanie zjawiska dwójłomności spontanicznej polegało na rejestrowaniu zmian natężenia światła przechodzącego przez cały układ, w zależności od temperatury układu. Laser He-Ne emitował światło laserowe o długości fali $\lambda=632nm$, które przechodziło przez dwa polaryzatory ustawione względem siebie pod kątem $90^{o}$. Ułożenie to zapewniało nam całkowite wygaszenie światła źródła, a pozwalało rejestrować jedynie zmiany spowodowane przez zjawisko dwójłomności. Kryształ TGS, który był ustawiony w kriostacie między polaryzatorem i analizatorem, wykazywał właściwości dwójłomne. Jego temperaturę zmienialiśmy od temperatury pokojowej, aż do temperatury około $100^{o}C$, a potem poddaliśmy próbkę swobodnemu chłodzeniu, także monitorując jej zachowanie. Wyniki jakie otrzymaliśmy zaprezentowane są na Rys.\ref{fig:wykD12}.
 
-\begin{figure}[!h]
-	\centering
-	\includegraphics[width=0.7\linewidth]{wykD1.png}
-	\caption{Wykres natężenia światła przechodzącego przez układ od temperatury kryształu, podczas ogrzewania próbki.}
-	\label{fig:wykD1}
+\begin{figure}[h!]
+  \centering
+  \begin{subfigure}[b]{0.8\linewidth}
+    \includegraphics[width=\linewidth]{wykD1.png}
+    \caption{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.8\linewidth}
+    \includegraphics[width=\linewidth]{wykD2.png}
+    \caption{}
+  \end{subfigure}
+  \caption{a)Wykres natężenia światła przechodzącego przez układ od temperatury kryształu, podczas ogrzewania próbki. b)Wykres natężenia światła przechodzącego przez układ od temperatury kryształu, podczas swobodnego ochładzania próbki.}
+\label{fig:wykD12}
 \end{figure}
 
-\begin{figure}[!h]
-	\centering
-	\includegraphics[width=0.7\linewidth]{wykD2.png}
-	\caption{Wykres natężenia światła przechodzącego przez układ od temperatury kryształu, podczas swobodnego ochładzania próbki.}
-	\label{fig:wykD2}
+Jak widać, proces chłodzenia trwał znacznie dłużej. Można to wywnioskować po zauważalnie większej liczbie punktów pomiarowych, w podobnym przedziale temperatur, co czyni drugi wykres bardziej 'ciągłym'. Kolejną rzeczą wartą zauważenia jest fakt, że natężenie zmienia się periodycznie. Jest to spowodowane różną drogą optyczną wiązek zwyczajnej i nadzwyczajnej, przez co po wyjściu z kryształu, gdy zaczynają interferować, są one w różnych fazach. Różnica między kolejnymi ekstremami jest przesunięciem o $\pi$, więc możemy narysować wykres zmian przesunięcia fazowego $\Gamma$ od temperatury $T$. Wykresy te pokazane są na Rys.\ref{fig:wykD34}.
+
+\begin{figure}[h!]
+  \centering
+  \begin{subfigure}[b]{0.8\linewidth}
+    \includegraphics[width=\linewidth]{wykD3.png}
+    \caption{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.8\linewidth}
+    \includegraphics[width=\linewidth]{wykD4.png}
+    \caption{}
+  \end{subfigure}
+  \caption{a)Wykres zmian przesunięcia fazowego od temperatury kryształu, podczas ogrzewania próbki. b)Wykres zmian przesunięcia fazowego od temperatury kryształu, podczas swobodnego ochładzania próbki.}
+\label{fig:wykD34}
 \end{figure}
 
-Jak widać, proces chłodzenia trwał znacznie dłużej. Można to wywnioskować po zauważalnie większej liczbie punktów pomiarowych, w podobnym przedziale temperatur, co czyni drugi wykres bardziej 'ciągłym'. Kolejną rzeczą wartą zauważenia jest fakt, że natężenie zmienia się periodycznie. Jest to spowodowane różną drogą optyczną wiązek zwyczajnej i nadzwyczajnej, przez co po wyjściu z kryształu, gdy zaczynają interferować, są one w różnych fazach. Różnica między kolejnymi ekstremami jest przesunięciem o $\pi$, więc możemy narysować wykres zmian przesunięcia fazowego $\Gamma$ od temperatury $T$. Wykresy te pokazane są na Rys.\ref{fig:wykD3}. i Rys.\ref{fig:wykD4}.
-
-\begin{figure}[!h]
-	\centering
-	\includegraphics[width=0.7\linewidth]{wykD3.png}
-	\caption{Wykres zmian przesunięcia fazowego od temperatury kryształu, podczas ogrzewania próbki.}
-	\label{fig:wykD3}
-\end{figure}
-
-\begin{figure}[!h]
-	\centering
-	\includegraphics[width=0.7\linewidth]{wykD4.png}
-	\caption{Wykres zmian przesunięcia fazowego od temperatury kryształu, podczas swobodnego ochładzania próbki.}
-	\label{fig:wykD4}
-\end{figure}
-
-Jak widać na Rys.\ref{fig:wykD3}. i Rys.\ref{fig:wykD4}, w pewnym momencie wykres zaczyna przybierać kształt liniowy, lecz zanim się to stanie zależność zmian dwójłomności od temperatury wydaje się być funkcją nieliniową. Przemiana ma miejsce w Temperaturze Curie, po której funkcja staje się liniowa, a więc pochodna zmian dwójłomności równa jest 0. Wykres $\delta \Delta n(T)$ pokazany jest na Rys.\ref{fig:wykD5}. i Rys.\ref{fig:wykD6}.
+Jak widać na Rys.\ref{fig:wykD34}, w pewnym momencie wykres zaczyna przybierać kształt liniowy, lecz zanim się to stanie zależność zmian przesunięcia fazowego (a więc i zmian dwójłomności) od temperatury wydaje się być funkcją nieliniową. Przemiana ma miejsce w temperaturze Curie, po której funkcja staje się liniowa, a więc dwójłomność się nie zmienia. Wykres $\delta \Delta n(T)$ pokazany jest na Rys.\ref{fig:wykD5}. i Rys.\ref{fig:wykD6}.
 
 \begin{figure}[!h]
 	\centering
@@ -316,7 +321,7 @@ Jak widać na Rys.\ref{fig:wykD3}. i Rys.\ref{fig:wykD4}, w pewnym momencie wykr
 	\label{fig:wykD6}
 \end{figure}
 
-Z aproksymacji kwadratowej wykresów Rys.\ref{fig:wykD5}. i Rys.\ref{fig:wykD6}. można odczytać miejsce zerowe funkcji, czyli miejsce przemiany fazowej - wartość temperatury Curie. Wartości te to odpowiednio: dla ogrzewania próbki
+Z aproksymacji kwadratowej wykresów Rys.\ref{fig:wykD5}. i Rys.\ref{fig:wykD6}. można odczytać miejsca zerowe funkcji, czyli miejsca przemian fazowych - wartość temperatury Curie. Wartości te to odpowiednio, dla ogrzewania próbki:
 \begin{equation}
 T_{C grz}=49,8149^{o}C
 \end{equation}
@@ -326,11 +331,22 @@ T_{C chl}=43,5187^{o}C
 \end{equation}
 
 \section{Dyskusja wyników}
-Wnioskując na podstawie uzyskanych wyników można uznać, że badania zostały przeprowadzone poprawnie, a wyniki są zbliżone do tablicowych \cite{antoniewicz}. Podsumowując, temperatury Curie wyznaczone dla kryształu podczas badań to:\\
-- dla zjawiska polaryzacji spontanicznej wartość $50^{o}C$ i była to najmniej dokładna metoda do otrzymania tej wartości.\\
-- dla zjawiska przenikalności elektrycznej były to wartości odpowiednio dla ogrzewania i chłodzenia próbki $T_{C grz}=42,4523^{o}C$ oraz $T_{C chl}=41,5526^{o}C$. Było to doświadczenie dające najbardziej spójny i najlepszy jakościowo wynik temperatury Curie.\\
-- dla zjawiska dwójłomności spontanicznej była to wartości odpowiednio dla ogrzewania i chłodzenia próbki $T_{C grz}=49,8149^{o}C$ oraz $T_{C chl}=43,5187^{o}C$. Było to badanie dające dobry jakościowo wynik, niestety z dużą rozbieżnością dla ogrzewania materiału i ochładzania go.\\
-Warto wziąć pod uwagę fakt, że chłodzenie spontaniczne odbywało się w mało kontrolowany sposób, z powodu dużego ruchu w sali pomiarowej, otwierania drzwi i okien, które mogły mieć wpływ na tempo ochładzania się próbek, a na pewno powodowało, że ten proces był niejednostajny i chaotyczny.
+\paragraph{}
+Wnioskując na podstawie uzyskanych wyników można uznać, że badania zostały przeprowadzone poprawnie, a wyniki są zbliżone do tablicowych\cite{antoniewicz}. Podsumowując, temperatury Curie wyznaczone dla kryształu podczas badań to:\\
+\begin{itemize}
+\item dla zjawiska polaryzacji spontanicznej wartość $50^{o}C$ i była to najmniej dokładna metoda otrzymania tej wartości.
+\item dla zjawiska przenikalności elektrycznej były to wartości odpowiednio dla ogrzewania i chłodzenia próbki $T_{C grz}=42,4523^{o}C$ oraz $T_{C chl}=41,5526^{o}C$. Było to doświadczenie dające najbardziej spójny i najlepszy jakościowo wynik temperatury Curie.
+\item dla zjawiska dwójłomności spontanicznej były to wartości odpowiednio dla ogrzewania i chłodzenia próbki $T_{C grz}=49,8149^{o}C$ oraz $T_{C chl}=43,5187^{o}C$. Było to badanie dające dokładne wyniki, niestety z dużą rozbieżnością dla ogrzewania materiału i ochładzania go.
+\end{itemize}
+
+\paragraph{}
+Warto wziąć pod uwagę fakt, że we wszystkich chłodzenie spontaniczne odbywało się w mało kontrolowany sposób, z powodu dużego ruchu w sali pomiarowej, otwierania drzwi i okien, które mogły mieć wpływ na tempo ochładzania się próbek, a na pewno powodowało, że ten proces był niejednostajny i chaotyczny.
+\paragraph{}
+Na wykresach Rys.\ref{fig:Graph28}. i Rys.\ref{fig:Graph29}. możemy zaobserwować, że pole koercji $E_{c}$ maleje liniowo, co jest spodziewanym rezultatem. Jednakowoż dla procesu chłodzenia współczynnik korelacji prostej jest widocznie mniejszy, z powodu chaotycznego charakteru chłodzenia spontanicznego. Na Rys.\ref{fig:Graph30}. możemy zaobserwować że w obydwóch przypadkach, w przedziale od $42^{o}C$ do $50^{o}C$ kwadrat polaryzacji spontanicznej $P_{s}^{2}$ jest funkcją liniową, więc jest to dowodem na to że polaryzacja liniowa $P_{s}$ jest w tym przedziale funkcją kwadratową. Te dwa argumenty pokazują że doświadczenie sprawdzające polaryzację spontaniczną zostało wykonane poprawnie, dając przewidywane rezultaty. 
+\paragraph{}
+Na Rys.\ref{fig:wyk67}. możemy zaobserwować, że odwrotność przenikalności jest funkcją liniową w przedziałach $T\in <42.4523 , 47.2500> [^{o}C]$ oraz $T\in <41.5526 , 49.7500> [^{o}C]$, kolejno dla ogrzewania i chłodzenia. Wartym zaobserwowania jest fakt, że przedziały te są podobne do przedziałów wyznaczonych przy badaniu polaryzacji spontanicznej. Wartości stałej Curie - Weissa nie różnią się znacznie od tablicowych\cite{antoniewicz}. Ponadto nasze wyniki spełniały w przybliżeniu 'prawo dwójki'. Te informacje pozwalają nam wnioskować że doświadczenie sprawdzające przenikalność elektryczną również zostało przeprowadzone poprawnie, dając przewidywane wyniki.
+\paragraph{}
+Reasumując, wszystkie doświadczenia wydają się być przeprowadzone prawidłowo, a jedynym błędem mogła być zbytnia chaotyczność etapów chłodzenia.
 
 \begin{thebibliography}{99}
 	\bibitem{krajewski} Krajewski T. \textit{Zagadnienia fizyki dielektryków}, Wydawnictwa Komunikacji i Łączności, Warszawa 1970 
