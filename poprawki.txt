@@ -19,3 +19,5 @@ graph28 brak jednostek
 graph29 brak jednostek
 graph30 brak jednostek
 graph31 wg nie podpisane osie
+
+//Karol: wszystkie wykresy poprawione 

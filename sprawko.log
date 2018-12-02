@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.21)  1 DEC 2018 16:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.21)  2 DEC 2018 17:09
 entering extended mode
 **./sprawko.tex
 (sprawko.tex
@@ -339,46 +339,46 @@ Package pdftex.def Info: setup2.png  used on input line 81.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [4 <./setup1.png> <./setup3.png>] [5 <./setup2.png>]
-<Graph31.jpg, id=39, 844.8363pt x 597.432pt>
-File: Graph31.jpg Graphic file (type jpg)
-<use Graph31.jpg>
-Package pdftex.def Info: Graph31.jpg  used on input line 101.
+<Graph31.png, id=39, 844.8363pt x 597.432pt>
+File: Graph31.png Graphic file (type png)
+<use Graph31.png>
+Package pdftex.def Info: Graph31.png  used on input line 101.
 (pdftex.def)             Requested size: 276.00105pt x 195.17497pt.
- [6 <./Graph31.jpg>]
-<Graph28.png, id=43, 844.8363pt x 597.49222pt>
+ [6 <./Graph31.png>]
+<Graph28.png, id=44, 844.8363pt x 597.432pt>
 File: Graph28.png Graphic file (type png)
 <use Graph28.png>
 Package pdftex.def Info: Graph28.png  used on input line 128.
-(pdftex.def)             Requested size: 276.00105pt x 195.19466pt.
-<Graph29.png, id=44, 844.8363pt x 597.49222pt>
+(pdftex.def)             Requested size: 276.00105pt x 195.17497pt.
+<Graph29.png, id=45, 844.8363pt x 597.432pt>
 File: Graph29.png Graphic file (type png)
 <use Graph29.png>
 Package pdftex.def Info: Graph29.png  used on input line 134.
-(pdftex.def)             Requested size: 276.00105pt x 195.19466pt.
+(pdftex.def)             Requested size: 276.00105pt x 195.17497pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Graph30.png, id=45, 844.8363pt x 597.49222pt>
+<Graph30.png, id=46, 844.8363pt x 597.432pt>
 File: Graph30.png Graphic file (type png)
 <use Graph30.png>
 Package pdftex.def Info: Graph30.png  used on input line 146.
-(pdftex.def)             Requested size: 276.00105pt x 195.19466pt.
+(pdftex.def)             Requested size: 276.00105pt x 195.17497pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [7 <./Graph28.png>] [8 <./Graph29.png> <./Graph30.png>]
-<wyk1.png, id=56, 523.9575pt x 287.0725pt>
+<wyk1.png, id=57, 523.9575pt x 287.0725pt>
 File: wyk1.png Graphic file (type png)
 <use wyk1.png>
 Package pdftex.def Info: wyk1.png  used on input line 158.
 (pdftex.def)             Requested size: 169.0519pt x 92.61848pt.
-<wyk2.png, id=57, 483.8075pt x 289.08pt>
+<wyk2.png, id=58, 483.8075pt x 289.08pt>
 File: wyk2.png Graphic file (type png)
 <use wyk2.png>
 Package pdftex.def Info: wyk2.png  used on input line 162.
 (pdftex.def)             Requested size: 169.0519pt x 101.01189pt.
-<wyk3.png, id=58, 537.00626pt x 290.08376pt>
+<wyk3.png, id=59, 537.00626pt x 290.08376pt>
 File: wyk3.png Graphic file (type png)
 <use wyk3.png>
 Package pdftex.def Info: wyk3.png  used on input line 177.
@@ -387,12 +387,12 @@ Package pdftex.def Info: wyk3.png  used on input line 177.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<wyk4.png, id=59, 481.8pt x 291.0875pt>
+<wyk4.png, id=60, 481.8pt x 291.0875pt>
 File: wyk4.png Graphic file (type png)
 <use wyk4.png>
 Package pdftex.def Info: wyk4.png  used on input line 194.
 (pdftex.def)             Requested size: 169.0519pt x 102.13531pt.
-<wyk5.png, id=60, 502.87875pt x 291.0875pt>
+<wyk5.png, id=61, 502.87875pt x 291.0875pt>
 File: wyk5.png Graphic file (type png)
 <use wyk5.png>
 Package pdftex.def Info: wyk5.png  used on input line 198.
@@ -400,12 +400,12 @@ Package pdftex.def Info: wyk5.png  used on input line 198.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<wyk6.png, id=61, 569.12625pt x 291.0875pt>
+<wyk6.png, id=62, 569.12625pt x 291.0875pt>
 File: wyk6.png Graphic file (type png)
 <use wyk6.png>
 Package pdftex.def Info: wyk6.png  used on input line 217.
 (pdftex.def)             Requested size: 169.0519pt x 86.46524pt.
-<wyk7.png, id=62, 566.115pt x 291.0875pt>
+<wyk7.png, id=63, 566.115pt x 291.0875pt>
 File: wyk7.png Graphic file (type png)
 <use wyk7.png>
 Package pdftex.def Info: wyk7.png  used on input line 221.
@@ -418,22 +418,22 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Warning: Text page 10 contains only floats.
 
 [10 <./wyk3.png> <./wyk4.png> <./wyk5.png> <./wyk6.png> <./wyk7.png>]
-<wyk9.png, id=77, 524.96124pt x 289.08pt>
+<wyk9.png, id=78, 524.96124pt x 289.08pt>
 File: wyk9.png Graphic file (type png)
 <use wyk9.png>
 Package pdftex.def Info: wyk9.png  used on input line 242.
 (pdftex.def)             Requested size: 169.0519pt x 93.08974pt.
-<wyk8.png, id=78, 537.00626pt x 289.08pt>
+<wyk8.png, id=79, 537.00626pt x 289.08pt>
 File: wyk8.png Graphic file (type png)
 <use wyk8.png>
 Package pdftex.def Info: wyk8.png  used on input line 246.
 (pdftex.def)             Requested size: 169.0519pt x 91.00333pt.
-<wyk10.png, id=79, 566.115pt x 289.08pt>
+<wyk10.png, id=80, 566.115pt x 289.08pt>
 File: wyk10.png Graphic file (type png)
 <use wyk10.png>
 Package pdftex.def Info: wyk10.png  used on input line 258.
 (pdftex.def)             Requested size: 169.0519pt x 86.32326pt.
-<wyk11.png, id=80, 567.11874pt x 311.1625pt>
+<wyk11.png, id=81, 567.11874pt x 311.1625pt>
 File: wyk11.png Graphic file (type png)
 <use wyk11.png>
 Package pdftex.def Info: wyk11.png  used on input line 262.
@@ -442,56 +442,56 @@ Package pdftex.def Info: wyk11.png  used on input line 262.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<wykD1.png, id=81, 628.3475pt x 307.1475pt>
+<wykD1.png, id=82, 626.34pt x 306.14375pt>
 File: wykD1.png Graphic file (type png)
 <use wykD1.png>
 Package pdftex.def Info: wykD1.png  used on input line 275.
-(pdftex.def)             Requested size: 241.49895pt x 118.04828pt.
+(pdftex.def)             Requested size: 241.49895pt x 118.04088pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<wykD2.png, id=82, 627.34375pt x 273.02pt>
+<wykD2.png, id=83, 628.3475pt x 275.0275pt>
 File: wykD2.png Graphic file (type png)
 <use wykD2.png>
 Package pdftex.def Info: wykD2.png  used on input line 282.
-(pdftex.def)             Requested size: 241.49895pt x 105.1026pt.
+(pdftex.def)             Requested size: 241.49895pt x 105.70335pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [11 <./wyk9.png> <./wyk8.png>] [12 <./wyk10.png> <./wyk11.png> <./wykD1.png> <.
 /wykD2.png>]
-<wykD3.png, id=95, 625.33624pt x 323.2075pt>
+<wykD3.png, id=96, 625.33624pt x 321.2pt>
 File: wykD3.png Graphic file (type png)
 <use wykD3.png>
 Package pdftex.def Info: wykD3.png  used on input line 291.
-(pdftex.def)             Requested size: 241.49895pt x 124.81747pt.
-<wykD4.png, id=96, 688.5725pt x 324.21124pt>
+(pdftex.def)             Requested size: 241.49895pt x 124.04222pt.
+<wykD4.png, id=97, 689.57625pt x 325.215pt>
 File: wykD4.png Graphic file (type png)
 <use wykD4.png>
 Package pdftex.def Info: wykD4.png  used on input line 298.
-(pdftex.def)             Requested size: 241.49895pt x 113.70815pt.
-<wykD5.png, id=97, 631.35875pt x 320.19624pt>
+(pdftex.def)             Requested size: 241.49895pt x 113.89642pt.
+<wykD5.png, id=98, 630.355pt x 320.19624pt>
 File: wykD5.png Graphic file (type png)
 <use wykD5.png>
 Package pdftex.def Info: wykD5.png  used on input line 307.
-(pdftex.def)             Requested size: 241.49895pt x 122.4771pt.
+(pdftex.def)             Requested size: 241.49895pt x 122.67253pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<wykD6.png, id=98, 645.41125pt x 324.21124pt>
+<wykD6.png, id=99, 647.41875pt x 323.2075pt>
 File: wykD6.png Graphic file (type png)
 <use wykD6.png>
 Package pdftex.def Info: wykD6.png  used on input line 314.
-(pdftex.def)             Requested size: 241.49895pt x 121.31177pt.
+(pdftex.def)             Requested size: 241.49895pt x 120.56139pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [13 <./wykD3.png> <./wykD4.png>] [14 <./wykD5.png> <./wykD6.png>] [15]
 (sprawko.aux) ) 
 Here is how much of TeX's memory you used:
- 3619 strings out of 492970
- 55207 string characters out of 3127925
+ 3618 strings out of 492970
+ 55203 string characters out of 3127925
  123174 words of memory out of 3000000
  7417 multiletter control sequences out of 15000+200000
  14315 words of font info for 40 fonts, out of 3000000 for 9000
@@ -514,9 +514,9 @@ b><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plr7.pfb
 ><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plsy7.pfb
 ><F:/Users/PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plti10.pf
 b>
-Output written on sprawko.pdf (15 pages, 3360263 bytes).
+Output written on sprawko.pdf (15 pages, 694679 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
+ 156 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  131 words of extra memory for PDF output out of 10000 (max. 10000000)
 
